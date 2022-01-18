@@ -5,6 +5,6 @@ The application uses by default the localhost at the port 3000.
 For further information about Meteor you can check the official documentation at: https://docs.meteor.com/.
 
 If you want to see the App live and running: https://testebruce.meteorapp.com/
-username: meteorite
+username: meteorite;
 password: password
 That's all, thanks.
